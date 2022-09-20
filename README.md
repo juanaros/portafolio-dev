@@ -1,10 +1,11 @@
 # portafolio-dev
-portafolio de mis proyectos
-<!-- Github Page -->
+Este es el portafolio de mis proyectos en Desafio Latam
+
+Link a Github Pages:
 
 https://juanaros.github.io/portafolio-dev/
 
-Forks a Leonardo y a Danilo
+Forks a Leonardo Villagran y a Danilo Munoz:
 
 https://github.com/juanaros/fork_dmunoz
 
