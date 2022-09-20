@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#hero {
+    background-image: url(../img/header.jpg);
+    background-size: cover;
+}
+
+i {
+    font-size: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #252525;
+}
+
+footer {
+    background-image: url(../img/footer.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
