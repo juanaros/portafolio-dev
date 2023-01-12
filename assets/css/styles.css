@@ -14,13 +14,14 @@ i {
 
 a {
     text-decoration: none;
-    color: #252525;
+    color: #2e2e2e;
 }
 
 footer {
     background-image: url(../img/footer.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    margin-bottom: -15px;
 }
 
 body {
